@@ -4,7 +4,7 @@ class Book
   
   def initialize(title)
     @title = title
-    @author_name = name
+    
   end
   
 end
